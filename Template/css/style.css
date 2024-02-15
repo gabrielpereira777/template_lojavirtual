@@ -1,0 +1,119 @@
+#base {
+    background-color:white;
+    width: 1800px;
+    height: 1300px;
+    margin-right: 20px;
+    background-image: url(../img/tela\ preta.jpg.png);
+     margin top: 100px;
+
+}
+#cabeçalho{
+width: 98%;
+height:130px;
+margin: 15px;
+left: 100px;
+background-image: url(../img/banner\ 1600w-617BiXL44_s.png);
+}
+#navegação{
+ width: 20%;
+ height: 700px;
+ margin: 0px;
+ top:175px;
+ position: absolute; 
+ text-align: center;
+ color: white;
+ text-transform: none;
+}
+#imagem{
+    background-color:white;
+    width: 90%;
+    height: 150px;
+    margin: 110px;
+    margin-left: 330px;
+    top: 70px;
+    position: absolute;
+    background-image: url(../img/1009.png);
+
+}
+#primeiro {
+    background-color: white;
+    width: 90%;
+    height: 514px;
+    margin: 110px;
+    margin-left: 330px;
+    position: absolute;
+    top: 250px;
+    background-image: url(../img/preta.png);
+    color: white;
+}
+#section {
+ background-color: white;
+ width: 400px;
+ height: 400px;
+ margin: 50px; 
+ top:  0%;
+ position: absolute;
+ background-image: url(../img/Gamer\ tgt-hrtx-cm015.png);
+ color: black;
+ box-shadow: 5px 0px 20px white
+}
+#section02 {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    left: 460px;
+    top: 0%;
+    position: absolute;
+    background-image: url(../img/cadeira\ black.png);
+    color: black;
+    box-shadow: 5px 0px 20px white
+}
+#section03 {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    left: 915px;
+    top: 0%;
+    position: absolute;
+    background-image: url(../img/cadeira-gamer-branca-1.png);
+    color: black;
+    box-shadow: 5px 0px 20px white
+}
+#rodape{
+    background-color: white;
+    width: 112%;
+    height: 150px;
+    position: absolute;
+    top: 835px;
+    left: 40px;
+    background-image: url(../img/rodape.png);
+    color: white;
+}
+#institucional {
+margin-left: 70px;
+}
+
+#Dúvidas {
+ margin-left: 430px; 
+ bottom: 135px; 
+position: relative;
+}
+
+#Ajuda{
+margin-left: 790px;
+bottom:290px;
+position: relative;
+}
+#Acessibilidade{
+  margin-left: 1150px;
+  bottom: 430px;
+  position:relative;  
+}
+#Departamentos{
+    margin-left: 1500px;
+    bottom: 750px;
+    position: relative;
+}
+
